@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+table {
+            width: 50%;
+            background-color: yellow;
+            /* border-collapse: collapse; */
+        }
+        table, th, tr, td {
+            border: 1px solid black;
+        }
+        th, td {
+            padding: 8px;
+            text-align: left;
+        }
+        caption {
+            font-weight: bold;
+            margin-bottom: 8px;
+        }
