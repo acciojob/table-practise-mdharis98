@@ -11,3 +11,7 @@ table {
             padding: 8px;
             text-align: left;
         }
+	caption{
+		font-weight:bold;
+		padding:8px;
+	}
