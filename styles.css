@@ -11,7 +11,7 @@ table {
             padding: 8px;
             text-align: left;
         }
-        caption {
+        .cap {
             font-weight: bold;
             margin-bottom: 8px;
         }
